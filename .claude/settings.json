@@ -1,0 +1,10 @@
+{
+  "extraKnownMarketplaces": {
+    "c4-diagram-skill": {
+      "source": {
+        "source": "git",
+        "url": "https://github.com/aleksnikolaev/c4-diagram-skill.git"
+      }
+    }
+  }
+}
